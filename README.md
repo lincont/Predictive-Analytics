@@ -18,10 +18,10 @@ Logistic Regression, Stepwise Regression, Decision Tree, Random Forest, Boosted 
 </br>
 Model comparison and scoring methods
 
-#### Project 5:  Predict the Impact of a Menu Launch
+#### Project 5:  Market Analysis
 A/B Test
 
-#### Project 6:  Forecast Video Game Demand
+#### Project 6:  Forecast Demand
 Time Series - ETS and ARIMA
 
 #### Project 7:  Segment Countries of the World
