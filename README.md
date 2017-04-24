@@ -24,8 +24,8 @@ A/B Test
 #### Project 6:  Forecast Demand
 Time Series - ETS and ARIMA
 
-#### Project 7:  Segment Countries of the World
-
+#### Project 7:  Demographic Data Analysis
+Variable Reduction with PCA and K-Means, K-Median, and Neural Gas Cluster Analysis
 
 #### Project 8:  Capstone
 
